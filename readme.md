@@ -1,5 +1,5 @@
 <web app>
-  <content><![CDATA[
+  <edited by mouni>
 # ${1:Project Name}
 TODO: Write a project description
 ## Installation
